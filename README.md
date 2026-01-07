@@ -66,6 +66,7 @@ We compare activation functions based on:
 ├── main.ipynb              # Main Colab notebook (runs everything)
 └── README.md               # You are here 🚀
 
+```
 ---
 
 ## 🧪 How to Run (Google Colab)
